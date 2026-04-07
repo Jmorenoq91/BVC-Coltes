@@ -3,3 +3,5 @@ pandas
 plotly
 datetime
 io
+dateutil.relativedelta
+numpy
