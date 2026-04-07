@@ -1,7 +1,5 @@
 streamlit
 pandas
 plotly
-datetime
-io
 python-dateutil
 numpy
