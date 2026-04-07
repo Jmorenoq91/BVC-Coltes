@@ -4,3 +4,4 @@ plotly
 python-dateutil
 numpy
 openpyxl
+xlsxwriter
